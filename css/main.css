@@ -1,0 +1,8 @@
+.row{
+	background-color: skyblue;
+	border-bottom:red solid 2px;
+	margin-bottom: 2px
+}
+.titulo{
+	margin: 10px;
+}
